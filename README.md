@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TwentyCCent&layout=compact&theme=tokyonight)](https://github.com/TwentyCCent/github-readme-stats)
 <!--
 **TwentyCCent/TwentyCCent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
